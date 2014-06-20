@@ -1,6 +1,6 @@
 {
   "name": "modal",
-  "repo": "segmentio/modal",
+  "repo": "rainforestapp/modal",
   "license": "MIT",
   "version": "0.3.0",
   "description": "A simple modal UI component.",
